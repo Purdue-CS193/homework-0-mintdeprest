@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to FreshlyMinted Industries
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Ewwwww, this looks like an Xbox 360 Live Page. What is this, 2007?
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Woah, a website? This has gotta be the first of its kind!
 
-# Header 1
-## Header 2
-### Header 3
+# About me
+I honestly have no idea what I'm doing here. But, I figure if I type enough here, you probably won't read it all... 
+Is it working? No? Oh. Well, um. My name is **Mint**, if that wasn't obvious. It's nice to meet you! Or. It would be,
+if I was meeting you. You're just kind of reading this text that I wrote days ago. Awful weather we're having, huh?
 
-- Bulleted
-- List
+Hope you enjoy my website.
 
-1. Numbered
-2. List
+## My Favorite Things
+- wasting time
+- making stupid lists
+- subjecting other people to my ideosyncratic tendencies
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Excellent way to spend a Tuesday](https://sketchy.company) and ![Image]([src](https://i.ytimg.com/vi/tSSCm2TizBw/hqdefault.jpg))
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Did You Know
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Doctor Jekyll is a raving lunatic wanted on 6 charges of 1st degree homnicide. If you receive a message from him, DO NOT RESPOND. 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### h e l p
