@@ -29,7 +29,9 @@ Doctor Jekyll is a raving lunatic wanted on 6 charges of 1st degree homnicide. I
 
 ### h e l p
 
-The Actual Homework is this way  V V V V 
+
+The actual homework is this way  V V V V 
+
 
 
 # Mint's First CS193 Homework
@@ -40,5 +42,5 @@ My *Favorite* Things About CS193
 - um...
 - 193 is the only odd prime known for which 2 is not a root to the solution of 4𝑝^2+1.
 - also, according to the UN, there's 193 nations in the world.....
-- also also: C is the 3rd letter of the alphabet and S is the 19th letter of the alphabet, so CS 193 is a lexi-numerical palindrome...
+- also also: C is the 3rd letter of the alphabet and S is the 19th letter of the alphabet, so CS 193 is kind of a lexi-numerical palindrome...
 - are you still reading this? If so, our graders' tenacity is one of my favorite things about the class.
